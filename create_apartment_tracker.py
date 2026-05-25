@@ -181,23 +181,6 @@ apartments = [
             "Price not confirmed."
         ),
     ),
-    (
-        "515 East 86th Street, New York, NY 10028",
-        "202",
-        "https://streeteasy.com/for-rent/listing/515-east-86th-street",
-        "Rent",
-        "",
-        "",
-        "Jarvis / Blueground Sales (Blueground at Convivium)",
-        "sales-nyc@theblueground.com",
-        "May 2025",
-        "Passed",
-        (
-            "Short-term furnished rental via Blueground at Convivium. "
-            "Available May 20 – Jun 30, 2025. Dynamic pricing. "
-            "Inquiry via StreetEasy May 2025."
-        ),
-    ),
 ]
 
 # ── Row styles keyed by type / status ────────────────────────────────────
